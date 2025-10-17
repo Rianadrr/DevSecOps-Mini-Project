@@ -19,4 +19,4 @@ module.exports = {
     subtract, 
     multiply, 
     divide 
-};//
+};
